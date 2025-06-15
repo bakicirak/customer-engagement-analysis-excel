@@ -4,8 +4,8 @@ This project analyzes student engagement data for the 365 company using Microsof
 
 ## 📁 Folder Structure
 
-- `Engagement_Project.xlsx`: Contains the original dataset file.
-- `/analysis`: Excel files with calculations and results per task.
+- `data.xlsx`: Contains the original dataset file.
+- `Engagement_Project.xlsx`: Excel files with calculations and results per task.
 - `README.md`: Project summary and instructions.
 
 ---
@@ -74,8 +74,8 @@ The dataset includes anonymized data for students with free and paid accounts wh
 
 ## 📎 Files To Include
 
-- `Engagement_Project.xlsx` — the original dataset
-- `analysis/*.xlsx` — each Excel file for the individual tasks
+- `data.xlsx` — the original dataset
+- `Engagement_Project.xlsx` — each Excel file for the individual tasks
 
 ---
 
