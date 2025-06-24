@@ -68,7 +68,7 @@ The dataset includes anonymized data for students with free and paid accounts wh
 
 - **Microsoft Excel**: For descriptive stats, confidence intervals, hypothesis testing
 - **Basic statistical concepts**: Mean, median, standard deviation, skewness, kurtosis
-- **T-tests and F-tests**: To compare engagement levels across years and countries
+- **T-tests**: To compare engagement levels across years and countries
 
 ---
 
